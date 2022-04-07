@@ -1,3 +1,5 @@
+package practice;
+
 import javafx.css.Declaration;
 
 public class SyntaxNotes {

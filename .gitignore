@@ -2,9 +2,9 @@
 .DS_Store
 
 # IntelliJ
-.idea/*
+../../.idea/vcs.xml
 *.iml
 
 # Compiled output
 *.class
-out/*
+out/production
